@@ -21,7 +21,6 @@
 		&kp CLCK  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI &kp SQT           &kp RET
 		&kp LSHFT   &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA &kp DOT &kp RSHFT  &kp UP   &kp FSLH
 		&kp LCTRL &kp LGUI &kp LALT             &kp SPACE            &mo 1  &kp RGUI &kp LEFT &kp DOWN &kp RIGHT
-		&mo 1
 				>;
 			};
 
