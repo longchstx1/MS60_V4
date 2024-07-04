@@ -78,12 +78,7 @@ ext-power {
 };
 
 vbatt: vbatt {
-	compatible = "zmk,battery-voltage-divider";
-	label = "BATTERY";
-	io-channels = <&adc 7>;
-	output-ohms = <2000000>;
-	full-ohms = <(2000000 + 10000)>;
-	};
+	status = "okay";
 };
 
 &adc {
